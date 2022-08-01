@@ -1,3 +1,7 @@
+# Robustness of Greedy Approval Rules
+
+This repository contains source code used to run experiments in the paper "Robustness of Greedy Approval Rules" by Piotr Faliszewski, Grzegorz Gawron, and Bartosz Kusek
+
 # Setup
 
 ## Initialise
